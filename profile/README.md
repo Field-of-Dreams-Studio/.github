@@ -1,6 +1,6 @@
 # Hello World! This is FDS! 
 
-[Our HomePage](https://fds.moe) 
+[Our HomePage](https://fds.moe) | [Our Discord](https://discord.gg/Y6b9KRUCux) 
 
 ## Hotaru Rust Web Framework 
 
