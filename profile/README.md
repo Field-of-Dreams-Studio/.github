@@ -2,7 +2,7 @@
 
 [Our HomePage](https://fds.moe) | [Our Discord](https://discord.gg/Y6b9KRUCux) 
 
-**Research Subgroup**: [PMINE](https://pmine.rs) 
+**Research Subgroup**: [PMINE](https://pmine.rs) | [GitHub](https://github.com/fds-pmine/)  
 
 **Project-StarFall**: [StarFall](https://sf.fds.moe) 
 
