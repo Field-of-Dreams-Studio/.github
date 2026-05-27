@@ -2,6 +2,10 @@
 
 [Our HomePage](https://fds.moe) | [Our Discord](https://discord.gg/Y6b9KRUCux) 
 
+**Research Subgroup**: [PMINE](https://pmine.rs) 
+
+**Project-StarFall**: [StarFall](https://sf.fds.moe) 
+
 ## Hotaru Rust Web Framework 
 
 [GitHub](https://github.com/Field-of-Dreams-Studio/hotaru/tree/master) [Crates.io](https://crates.io/crates/hotaru) 
